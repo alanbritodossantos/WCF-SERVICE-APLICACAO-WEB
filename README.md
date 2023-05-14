@@ -1,2 +1,2 @@
 # WCF-SERVICE-APLICACAO-WEB
-Projeto simples onde a aplicação busca as informações no service usando wcf
+Foi criado 2 projetos um é o serviço e o outro é uma aplicação web mvc
